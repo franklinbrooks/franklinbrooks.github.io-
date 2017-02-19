@@ -1,2 +1,2 @@
-# franklinchristopherbrooks.com
-Source code for my professional portfolio site
+# franklinbrooks.github.io
+Source code for my GitHub Pages portfolio site
